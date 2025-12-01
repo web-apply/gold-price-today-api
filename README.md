@@ -17,7 +17,7 @@ By using a JSON API with per-currency output and automatic updates every 5 minut
 
 ## 🔗 Data Source — GoldPrice.Today JSON Endpoint
 
-* Endpoint: `https://GoldPrice.Today/json.php?data=live`
+* Endpoint: https://GoldPrice.Today/json.php?data=live
 * Refresh frequency: **every 5 minutes** — meaning the JSON feed updates automatically at 5-minute intervals.
 * Output: JSON, with data for **every currency** supported by the service.
 
