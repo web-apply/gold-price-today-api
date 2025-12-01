@@ -44,7 +44,7 @@ Using a multi-currency API output by default gives a big advantage: you don’t 
 
 ```php
 <?php
-$url = "https://GoldPrice.Today/json.php?data=live";
+$url = "https://GoldPrice.Today/api.php?data=live";
 $json = file_get_contents($url);
 $data = json_decode($json, true);
 
